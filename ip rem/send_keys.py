@@ -67,7 +67,7 @@ def end_connect(s) :
     return None
  
 x = 1 
-stbip = '192.168.192.2'
+stbip = ''
 
 if len(sys.argv) > 1:
 	key = sys.argv[1]
